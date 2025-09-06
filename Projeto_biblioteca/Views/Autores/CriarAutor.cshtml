@@ -1,0 +1,19 @@
+﻿@model Projeto_biblioteca.Models.Autores
+
+<h2>Cadastrar Autores</h2>
+
+<form asp-action="CriarAutor" method="post">
+
+    @Html.AntiForgeryToken()
+
+    <div>
+
+        <label>Nome</label>
+
+        <input asp-for="nome" required />
+
+    </div>
+
+    <button type="submit">Cadastrar</button>
+
+</form>
