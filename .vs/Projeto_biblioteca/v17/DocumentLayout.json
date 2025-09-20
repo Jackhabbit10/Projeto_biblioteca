@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|c:\\users\\3bmod\\desktop\\projeto_biblioteca\\projeto_biblioteca\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|solutionrelative:projeto_biblioteca\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|c:\\users\\3bmod\\desktop\\projeto_biblioteca\\projeto_biblioteca\\controllers\\editorascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|solutionrelative:projeto_biblioteca\\controllers\\editorascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|c:\\users\\3bmod\\desktop\\projeto_biblioteca\\projeto_biblioteca\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|solutionrelative:projeto_biblioteca\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|c:\\users\\3bmod\\desktop\\projeto_biblioteca\\projeto_biblioteca\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|solutionrelative:projeto_biblioteca\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|c:\\users\\3bmod\\desktop\\projeto_biblioteca\\projeto_biblioteca\\models\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|solutionrelative:projeto_biblioteca\\models\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|c:\\users\\3bmod\\desktop\\projeto_biblioteca\\projeto_biblioteca\\views\\editoras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|solutionrelative:projeto_biblioteca\\views\\editoras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|c:\\users\\3bmod\\desktop\\projeto_biblioteca\\projeto_biblioteca\\controllers\\editorascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|solutionrelative:projeto_biblioteca\\controllers\\editorascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|c:\\users\\3bmod\\desktop\\projeto_biblioteca\\projeto_biblioteca\\views\\editoras\\criareditora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,14 +67,6 @@
       "RelativeMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|solutionrelative:projeto_biblioteca\\views\\autores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|c:\\users\\3bmod\\desktop\\projeto_biblioteca\\projeto_biblioteca\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|solutionrelative:projeto_biblioteca\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|c:\\users\\3bmod\\desktop\\projeto_biblioteca\\projeto_biblioteca\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|solutionrelative:projeto_biblioteca\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|c:\\users\\3bmod\\desktop\\projeto_biblioteca\\projeto_biblioteca\\views\\usuarios\\criarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2718ED3A-4F94-475E-A8D0-29FAC26D2B94}|Projeto_biblioteca\\Projeto_biblioteca.csproj|solutionrelative:projeto_biblioteca\\views\\usuarios\\criarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -91,6 +95,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Controllers\\LivrosController.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "Projeto_biblioteca\\Controllers\\LivrosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:16:46.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Autores.cs",
               "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Autores.cs",
               "RelativeDocumentMoniker": "Projeto_biblioteca\\Models\\Autores.cs",
@@ -103,33 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Editora.cs",
-              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Editora.cs",
-              "RelativeDocumentMoniker": "Projeto_biblioteca\\Models\\Editora.cs",
-              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Editora.cs",
-              "RelativeToolTip": "Projeto_biblioteca\\Models\\Editora.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T22:46:16.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Generos.cs",
-              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Generos.cs",
-              "RelativeDocumentMoniker": "Projeto_biblioteca\\Models\\Generos.cs",
-              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Generos.cs",
-              "RelativeToolTip": "Projeto_biblioteca\\Models\\Generos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T00:26:55.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EditorasController.cs",
               "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\EditorasController.cs",
               "RelativeDocumentMoniker": "Projeto_biblioteca\\Controllers\\EditorasController.cs",
@@ -142,20 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CriarGenero.cshtml",
-              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Generos\\CriarGenero.cshtml",
-              "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Generos\\CriarGenero.cshtml",
-              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Generos\\CriarGenero.cshtml",
-              "RelativeToolTip": "Projeto_biblioteca\\Views\\Generos\\CriarGenero.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-06T00:31:56.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Shared\\_Layout.cshtml",
@@ -163,116 +141,11 @@
               "RelativeToolTip": "Projeto_biblioteca\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T23:32:46.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T23:32:46.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Editoras\\Index.cshtml",
-              "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Editoras\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Editoras\\Index.cshtml",
-              "RelativeToolTip": "Projeto_biblioteca\\Views\\Editoras\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T22:52:35.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Usuarios.cs",
-              "RelativeDocumentMoniker": "Projeto_biblioteca\\Models\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Usuarios.cs",
-              "RelativeToolTip": "Projeto_biblioteca\\Models\\Usuarios.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T22:51:44.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "Projeto_biblioteca\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "Projeto_biblioteca\\Controllers\\UsuariosController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA1wCIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T23:03:05.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Projeto_biblioteca\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Projeto_biblioteca\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T22:47:53.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CriarAutor.cshtml",
-              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Autores\\CriarAutor.cshtml",
-              "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Autores\\CriarAutor.cshtml",
-              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Autores\\CriarAutor.cshtml",
-              "RelativeToolTip": "Projeto_biblioteca\\Views\\Autores\\CriarAutor.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-06T00:49:16.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Autores\\Index.cshtml",
-              "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Autores\\Index.cshtml",
-              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Autores\\Index.cshtml",
-              "RelativeToolTip": "Projeto_biblioteca\\Views\\Autores\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-06T00:49:48.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CriarEditora.cshtml",
-              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Editoras\\CriarEditora.cshtml",
-              "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Editoras\\CriarEditora.cshtml",
-              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Editoras\\CriarEditora.cshtml",
-              "RelativeToolTip": "Projeto_biblioteca\\Views\\Editoras\\CriarEditora.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T22:51:21.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AutoresController.cs",
-              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\AutoresController.cs",
-              "RelativeDocumentMoniker": "Projeto_biblioteca\\Controllers\\AutoresController.cs",
-              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\AutoresController.cs",
-              "RelativeToolTip": "Projeto_biblioteca\\Controllers\\AutoresController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T00:48:38.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "GenerosController.cs",
               "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\GenerosController.cs",
               "RelativeDocumentMoniker": "Projeto_biblioteca\\Controllers\\GenerosController.cs",
@@ -285,7 +158,140 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "Projeto_biblioteca\\Controllers\\AutoresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:48:38.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CriarGenero.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Generos\\CriarGenero.cshtml",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Generos\\CriarGenero.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Generos\\CriarGenero.cshtml",
+              "RelativeToolTip": "Projeto_biblioteca\\Views\\Generos\\CriarGenero.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T00:31:56.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Generos.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Generos.cs",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Models\\Generos.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Generos.cs",
+              "RelativeToolTip": "Projeto_biblioteca\\Models\\Generos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:26:55.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Editora.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Editora.cs",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Models\\Editora.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Editora.cs",
+              "RelativeToolTip": "Projeto_biblioteca\\Models\\Editora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:46:16.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Editoras\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Editoras\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Editoras\\Index.cshtml",
+              "RelativeToolTip": "Projeto_biblioteca\\Views\\Editoras\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T22:52:35.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\Usuarios.cs",
+              "RelativeToolTip": "Projeto_biblioteca\\Models\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T22:51:44.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Projeto_biblioteca\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA1wCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T23:03:05.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Projeto_biblioteca\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:47:53.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CriarAutor.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Autores\\CriarAutor.cshtml",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Autores\\CriarAutor.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Autores\\CriarAutor.cshtml",
+              "RelativeToolTip": "Projeto_biblioteca\\Views\\Autores\\CriarAutor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T00:49:16.449Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Autores\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Autores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Autores\\Index.cshtml",
+              "RelativeToolTip": "Projeto_biblioteca\\Views\\Autores\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-06T00:49:48.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CriarEditora.cshtml",
+              "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Editoras\\CriarEditora.cshtml",
+              "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Editoras\\CriarEditora.cshtml",
+              "ToolTip": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Editoras\\CriarEditora.cshtml",
+              "RelativeToolTip": "Projeto_biblioteca\\Views\\Editoras\\CriarEditora.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T22:51:21.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "CriarUsuario.cshtml",
               "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Usuarios\\CriarUsuario.cshtml",
               "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Usuarios\\CriarUsuario.cshtml",
@@ -293,12 +299,11 @@
               "RelativeToolTip": "Projeto_biblioteca\\Views\\Usuarios\\CriarUsuario.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T23:19:34.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T23:19:34.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Usuarios\\Index.cshtml",
               "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Usuarios\\Index.cshtml",
@@ -306,12 +311,11 @@
               "RelativeToolTip": "Projeto_biblioteca\\Views\\Usuarios\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-05T23:19:42.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T23:19:42.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Views\\Generos\\Index.cshtml",
               "RelativeDocumentMoniker": "Projeto_biblioteca\\Views\\Generos\\Index.cshtml",
@@ -319,12 +323,11 @@
               "RelativeToolTip": "Projeto_biblioteca\\Views\\Generos\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-06T00:43:54.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T00:43:54.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Database.cs",
               "DocumentMoniker": "C:\\Users\\3bmod\\Desktop\\Projeto_biblioteca\\Projeto_biblioteca\\Data\\Database.cs",
               "RelativeDocumentMoniker": "Projeto_biblioteca\\Data\\Database.cs",
@@ -332,8 +335,7 @@
               "RelativeToolTip": "Projeto_biblioteca\\Data\\Database.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T22:50:17.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T22:50:17.595Z"
             }
           ]
         }
